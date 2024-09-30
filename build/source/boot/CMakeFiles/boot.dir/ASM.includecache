@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/boot/boot.h
+
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/boot/start.S
+boot.h
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/boot/boot.h
+

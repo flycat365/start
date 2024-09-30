@@ -1,0 +1,11 @@
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/CMakeFiles/edit_cache.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/CMakeFiles/rebuild_cache.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/boot/CMakeFiles/boot.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/boot/CMakeFiles/edit_cache.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/boot/CMakeFiles/rebuild_cache.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/loader/CMakeFiles/loader.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/loader/CMakeFiles/edit_cache.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/loader/CMakeFiles/rebuild_cache.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/kernel/CMakeFiles/kernel.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/kernel/CMakeFiles/edit_cache.dir
+C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/kernel/CMakeFiles/rebuild_cache.dir

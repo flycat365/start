@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/boot",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/boot.dir/includes_ASM.rsp -m32 -g -g -o CMakeFiles/boot.dir/start.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/boot/start.S",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/boot/start.S",
+  "output": "source/boot/CMakeFiles/boot.dir/start.obj"
+},
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/boot",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/boot.dir/includes_C.rsp -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/boot.dir/boot.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/boot/boot.c",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/boot/boot.c",
+  "output": "source/boot/CMakeFiles/boot.dir/boot.obj"
+},
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/loader",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/loader.dir/includes_ASM.rsp -m32 -g -g -o CMakeFiles/loader.dir/start.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/loader/start.S",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/loader/start.S",
+  "output": "source/loader/CMakeFiles/loader.dir/start.obj"
+},
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/loader",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/loader.dir/includes_C.rsp -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loader.dir/loader_16.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/loader/loader_16.c",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/loader/loader_16.c",
+  "output": "source/loader/CMakeFiles/loader.dir/loader_16.obj"
+},
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/loader",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/loader.dir/includes_C.rsp -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loader.dir/loader_32.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/loader/loader_32.c",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/loader/loader_32.c",
+  "output": "source/loader/CMakeFiles/loader.dir/loader_32.obj"
+},
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/kernel",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/kernel.dir/includes_ASM.rsp -m32 -g -g -o CMakeFiles/kernel.dir/init/start.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/kernel/init/start.s",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/kernel/init/start.s",
+  "output": "source/kernel/CMakeFiles/kernel.dir/init/start.obj"
+},
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/kernel",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/kernel.dir/includes_C.rsp -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/cpu/cpu.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/kernel/cpu/cpu.c",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/kernel/cpu/cpu.c",
+  "output": "source/kernel/CMakeFiles/kernel.dir/cpu/cpu.obj"
+},
+{
+  "directory": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/build/source/kernel",
+  "command": "E:/ruanjian1/x86_64-elf-tools-windows/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  @CMakeFiles/kernel.dir/includes_C.rsp -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/init/init.obj -c C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/kernel/init/init.c",
+  "file": "C:/Users/acer/Desktop/caoauo/diy-x86os-master/diy-x86os-master/start/start/source/kernel/init/init.c",
+  "output": "source/kernel/CMakeFiles/kernel.dir/init/init.obj"
+}
+]
